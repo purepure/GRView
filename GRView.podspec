@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/Ahmed-Komsan/GRView"
   s.license      = "MIT"
   s.author             = { "Ahmed Komsan" => "ahmedkomsan0@gmail.com" }
-  s.platform     = :ios, "11.2"
+  s.platform     = :ios, "9.0"
   s.swift_version = "4.0"
   s.source       = { :git => "https://github.com/Ahmed-Komsan/GRView.git", :tag => "1.0.0" }
   s.source_files  = "GradientView/*.{h,m,swift}"
